@@ -1,91 +1,277 @@
-# Hi, I'm Akhil Shah 👋
+<div align="center">
 
-**Full-Stack & Backend Developer | AI-Integrated Systems | Cloud**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=2EA8FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Akhil+Shah+%F0%9F%91%8B;Full-Stack+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Software+Engineer" alt="Typing SVG" />
 
-B.Tech in Information & Communication Technology, Pandit Deendayal Energy University.
+**B.Tech, Information & Communication Technology — Pandit Deendayal Energy University**
 
-I build full-stack applications with real backend depth — async APIs, real-time data pipelines, and cloud-native services — and I like wiring practical AI (LLM inference, ML models) into products that actually do something, not just demo it. Currently focused on strengthening system design and distributed systems fundamentals alongside applied AI engineering.
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilshah04/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilshah179@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilshah179)
+
+![Profile Views](https://komarev.com/ghpvc/?username=akhilshah179&color=2EA8FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/akhilshah179?style=flat-square&color=2EA8FF&label=Followers)
+
+</div>
+
+<br>
+
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+**👨‍💻 Building**
+
+Full-stack & AI-integrated apps — async APIs, real-time pipelines, cloud-backed services
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🧠 Learning**
+
+System Design, Distributed Systems & Data Structures / Algorithms
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**☁️ Exploring**
+
+Cloud infrastructure and applied AI engineering (LLM inference, ML models)
+
+</td>
+</tr>
+</table>
+
+I build things with real backend depth rather than just a UI on top of a database — async APIs, WebSocket pipelines, and cloud-native services — and I like wiring practical AI into products that actually do something, not just demo it.
+
+<br>
 
 ## 🧰 Tech Stack
 
 **Languages**
-`Python` `JavaScript (ES6+)` `TypeScript`
+
+<img src="https://skillicons.dev/icons?i=py,js,ts" />
 
 **Frontend**
-`React.js` `Vite` `Tailwind CSS` `React Router` `Zustand` `TanStack Query`
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
 
 **Backend**
-`Node.js` `Express.js` `FastAPI` `REST API Design` `WebSockets`
 
-**Databases**
-`PostgreSQL` `Prisma ORM` `SQLAlchemy (Async)` `DynamoDB` `Firebase Firestore` `SQLite`
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<br>`REST API Design` `WebSockets`
+
+**Database & Caching**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,dynamodb,firebase,prisma" />
 
 **Cloud / DevOps**
-`AWS Lambda` `AWS S3` `AWS CloudTrail` `AWS Cognito` `AWS DynamoDB` `Docker` `Redis`
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
 
 **Authentication**
-`AWS Cognito` `Firebase Auth` `Google OAuth (OAuth 2.0)` `JWT`
+
+`AWS Cognito` `Firebase Auth` `Google OAuth 2.0` `JWT`
 
 **AI / ML**
-`Scikit-learn` `Groq API (LLM inference)` `Pandas` `NumPy`
+
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<br>`Groq API (LLM inference — Llama 3.3)` `Pandas` `NumPy`
 
 **Payments**
+
 `Razorpay`
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-### [MindScape](https://github.com/akhilshah179/MindScape)
-A full-stack "Student OS" combining an AI study assistant, a LeetCode-style coding arena, and live video collaboration into one platform.
-- **Problem solved:** students juggle separate tools for AI tutoring, coding practice, and study coordination — this unifies them into one dashboard.
-- **Key features:** Groq-powered (Llama 3.3) AI chat with per-user memory, PDF-grounded Q&A, a coding arena with Judge0 remote execution and AI-generated hints/code review, LiveKit-based video meetings, and an analytics dashboard for study streaks and quiz performance.
-- **Stack:** React 19, Vite, Tailwind CSS, Node.js, Express, AWS Cognito, AWS S3, DynamoDB, Groq API, Judge0 CE, LiveKit.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [FluxCart](https://github.com/akhilshah179/FluxCart)
-An AI-powered e-commerce platform with a dynamic pricing engine that adjusts prices in real time based on demand signals.
-- **Problem solved:** static pricing ignores live demand and inventory pressure — FluxCart recalculates prices continuously from engagement and stock data.
-- **Key features:** a Random Forest model driving price multipliers bounded to a safe range, live price broadcasts over WebSockets via Redis Pub/Sub, Google OAuth login with role-based access, and an admin dashboard for demand and pricing analytics.
-- **Stack:** React, Vite, FastAPI, SQLAlchemy (async), Redis, Scikit-learn, Docker.
+### 🧠 MindScape
+**AI-powered Student Productivity Platform**
 
-### [StrataGem](https://github.com/akhilshah179/Stratagem-Project-main)
-A project and meeting-intelligence platform that turns conversations in Slack, Google Meet, and GitHub into tracked action items.
-- **Problem solved:** action items discussed in meetings and chat routinely get lost across tools — StrataGem centralizes them into one accountable workflow.
-- **Key features:** Slack slash-command task assignment, real GitHub Issues integration, a Chrome extension that detects Google Meet sessions and surfaces AI-detected action items for manager approval, and role-based dashboards (Admin/Manager/Employee) backed by Firebase.
-- **Stack:** React, Vite, Tailwind CSS, FastAPI, Firebase (Auth + Firestore), WebSockets, Slack API, GitHub API, Chrome Extension (Manifest V3).
+A full-stack "Student OS" — AI study assistant, LeetCode-style coding arena, and live video collaboration in one dashboard.
 
-### [QuantFlow](https://github.com/akhilshah179/QuantFlow)
-A real-time financial market analytics terminal and quantitative paper-trading platform.
-- **Problem solved:** gives traders and researchers a Bloomberg/TradingView-style workspace to analyze live multi-asset data and test strategies without financial risk.
-- **Key features:** live tick streaming over WebSockets backed by Redis pub/sub, a technical indicator engine (SMA, EMA, RSI, MACD, Bollinger Bands, VWAP), a multi-factor stock screener across global exchanges, and an ACID-compliant paper trading engine with atomic order execution via Prisma transactions.
-- **Stack:** React, TypeScript, Vite, Node.js, Express, PostgreSQL, Prisma ORM, Redis, Docker, JWT + Google OAuth.
+**Key features:** Groq-powered (Llama 3.3) AI chat with memory · PDF-grounded Q&A · Judge0 remote code execution · LiveKit video meetings
 
-### [NexServe](https://github.com/akhilshah179/NexServe)
-An on-demand multi-service booking marketplace connecting customers with verified local service providers.
-- **Problem solved:** replaces scattered, informal ways of booking home services (cleaning, repairs, tutoring, etc.) with a structured, trackable, and paid booking pipeline.
-- **Key features:** a multi-step booking wizard with slot-based scheduling, Razorpay checkout with HMAC-signature payment verification, a booking lifecycle state machine (`PENDING → ACCEPTED → COMPLETED`), and separate role-based dashboards for customers, providers, and admins.
-- **Stack:** React, Vite, Tailwind CSS, FastAPI, SQLAlchemy 2.0, Alembic, PostgreSQL (SQLite fallback), Redis, Razorpay, Google OAuth + JWT.
+`React 19` `Node.js` `AWS Cognito/S3` `DynamoDB` `Groq API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/MindScape)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 FluxCart
+**AI-Powered Dynamic Pricing E-Commerce Engine**
+
+Prices recalculate in real time from live demand, clicks, and stock levels instead of staying static.
+
+**Key features:** Random Forest pricing model · Redis Pub/Sub live price broadcast over WebSockets · Google OAuth + RBAC
+
+`React` `FastAPI` `SQLAlchemy (async)` `Redis` `Scikit-learn`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/FluxCart)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ StrataGem
+**Meeting Intelligence & Task Automation Platform**
+
+Turns conversations in Slack, Google Meet, and GitHub into tracked, approved action items — nothing discussed gets lost.
+
+**Key features:** Slack slash-command task assignment · Chrome extension detecting live Google Meet sessions · Real GitHub Issues sync
+
+`React` `FastAPI` `Firebase` `WebSockets` `Slack API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/Stratagem-Project-main)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 QuantFlow
+**Real-Time Financial Market Terminal & Paper Trading**
+
+A Bloomberg/TradingView-style terminal for live multi-asset analysis and risk-free strategy testing.
+
+**Key features:** Live tick streaming via Redis pub/sub · SMA/EMA/RSI/MACD/Bollinger indicator engine · ACID paper-trading engine via Prisma transactions
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/QuantFlow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ NexServe
+**On-Demand Multi-Service Booking Marketplace**
+
+Connects customers with verified local service providers across 12+ categories with a structured, paid booking pipeline.
+
+**Key features:** Multi-step booking wizard with slot scheduling · Razorpay checkout with HMAC signature verification · Booking lifecycle state machine
+
+`React` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/NexServe)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS Cloud Threat Logger
+**Serverless AWS Security Monitoring Tool**
+
+Ingests CloudTrail logs to detect and alert on suspicious AWS account activity automatically.
+
+**Key features:** CloudTrail log ingestion from S3 · Lambda-based real-time event analysis · Fully serverless architecture
+
+`Python` `AWS Lambda` `AWS S3` `AWS CloudTrail`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/AWS-Cloud-Threat-Logger)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌟 Project Showcase
+
+<div align="center">
+
+### 🧠 MindScape — The Complete Student Operating System
+
+**React 19 → Node.js/Express → DynamoDB → AWS (Cognito, S3)**
+
+⭐ Groq-powered AI chat with per-user memory and PDF-grounded Q&A
+⭐ LeetCode-style coding arena with Judge0 remote execution + AI hints/review
+⭐ LiveKit-based real-time video meetings for study groups
+⭐ Full analytics dashboard — study streaks, quiz performance, XP/badges
+
+[**View Project →**](https://github.com/akhilshah179/MindScape)
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-- Data Structures & Algorithms
-- Backend Architecture & System Design
-- Distributed Systems
-- Cloud Infrastructure (AWS)
-- AI Engineering (LLM integration patterns, retrieval, agentic workflows)
+### 📈 QuantFlow — Real-Time Financial Market Terminal
 
-## 🎯 Engineering Interests
+**React + TypeScript → Node.js/Express → PostgreSQL (Prisma) → Redis**
 
-I gravitate toward the backend side of full-stack work — scalable APIs, real-time systems (WebSockets, pub/sub), and the infrastructure decisions behind them. I'm equally interested in AI-powered products that go beyond a chatbot wrapper, and in cloud architecture and system design as a way of thinking about tradeoffs, not just a checklist of AWS services.
+⭐ Live multi-asset tick streaming (equities, crypto, forex, futures) over WebSockets
+⭐ Technical indicator engine — SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, ATR
+⭐ ACID-compliant paper trading engine with atomic Prisma transactions
+⭐ Multi-factor stock screener across global exchanges
 
----
+[**View Project →**](https://github.com/akhilshah179/QuantFlow)
 
-## 📫 Connect With Me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilshah04/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilshah179@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akhilshah179)
+<br>
+
+## 🏗️ Engineering Skills
+
+> Self-assessed working knowledge, not a scored benchmark.
+
+| Area | Level |
+|---|---|
+| Backend Engineering (APIs, async, real-time) | **Strong** |
+| Frontend Development (React ecosystem) | **Strong** |
+| Cloud & DevOps (AWS, Docker) | **Working Knowledge** |
+| System Design & Distributed Systems | **Learning** |
+| Data Structures & Algorithms | **Learning** |
+| Applied AI / LLM Integration | **Working Knowledge** |
+
+<br>
+
+## 📅 Currently Learning — 2026 Roadmap
+
+```
+2026
+│
+├── 🧩 Data Structures & Algorithms
+│
+├── 🏗️ System Design
+│
+├── ⚙️ Backend Architecture
+│
+├── ☁️ Cloud Infrastructure
+│
+└── 🤖 AI Engineering
+```
+
+<br>
+
+## 💭 Philosophy
+
+```
+Build things.
+Break things.
+Understand why.
+Build them better.
+```
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Let's build something meaningful.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilshah04/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilshah179)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilshah179@gmail.com)
+
+</div>
