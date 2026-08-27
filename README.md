@@ -315,7 +315,27 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 
 </div>
 
+---
+
+<div align="center">
+
+### 📈 QuantFlow — Real-Time Financial Market Terminal
+
+**React + TypeScript → Node.js/Express → PostgreSQL + Prisma → Redis**
+
+⭐ Live multi-asset market data streaming
+⭐ Technical indicator engine — SMA, EMA, RSI, MACD, Bollinger Bands, VWAP & ATR
+⭐ ACID-compliant paper trading with atomic Prisma transactions
+⭐ Multi-factor stock screener across global markets
+
+<a href="https://github.com/akhilshah179/QuantFlow">
+<b>View Project →</b>
+</a>
+
+</div>
+
 <br>
+
 
 ## 🏗️ Engineering Skills
 
