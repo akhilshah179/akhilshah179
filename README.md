@@ -1,17 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=2EA8FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Akhil+Shah+%F0%9F%91%8B;Full-Stack+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+# 👋 Akhil Shah
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA8FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Engineer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
 
 **B.Tech, Information & Communication Technology — Pandit Deendayal Energy University**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilshah04/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilshah179@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilshah179)
+<a href="https://www.linkedin.com/in/akhilshah04/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:akhilshah179@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/akhilshah179">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akhilshah179&color=2EA8FF&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/akhilshah179?style=flat-square&color=2EA8FF&label=Followers)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akhilshah179&color=2EA8FF&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/akhilshah179?style=flat-square&color=2EA8FF&label=Followers" />
 
 </div>
 
@@ -25,9 +35,10 @@
 
 **👨‍💻 Building**
 
-Full-stack & AI-integrated apps — async APIs, real-time pipelines, cloud-backed services
+Full-stack applications with robust backend systems, REST APIs, real-time pipelines, authentication, and cloud-backed services.
 
 </td>
+
 <td width="33%" align="center" valign="top">
 
 **🧠 Learning**
@@ -35,53 +46,68 @@ Full-stack & AI-integrated apps — async APIs, real-time pipelines, cloud-backe
 System Design, Distributed Systems & Data Structures / Algorithms
 
 </td>
+
 <td width="33%" align="center" valign="top">
 
 **☁️ Exploring**
 
-Cloud infrastructure and applied AI engineering (LLM inference, ML models)
+Cloud infrastructure, scalable backend architecture, and modern web technologies.
 
 </td>
 </tr>
 </table>
 
-I build things with real backend depth rather than just a UI on top of a database — async APIs, WebSocket pipelines, and cloud-native services — and I like wiring practical AI into products that actually do something, not just demo it.
+I enjoy building practical software with real backend depth — from asynchronous APIs and WebSocket pipelines to database-driven applications and cloud services. My focus is on understanding how systems work behind the interface and building reliable solutions around them.
 
 <br>
 
 ## 🧰 Tech Stack
 
-**Languages**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=py,js,ts" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,sql" />
+</p>
 
-**Frontend**
+`C++` `Python` `JavaScript` `TypeScript` `SQL`
 
+### 🎨 Frontend
+
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</p>
 
-**Backend**
+`React` `Vite` `Tailwind CSS` `HTML` `CSS`
 
+### ⚙️ Backend
+
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-<br>`REST API Design` `WebSockets`
+</p>
 
-**Database & Caching**
+`Node.js` `Express.js` `FastAPI` `REST APIs` `WebSockets`
 
+### 🗄️ Database & Caching
+
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,dynamodb,firebase,prisma" />
+</p>
 
-**Cloud / DevOps**
+`PostgreSQL` `SQLite` `Redis` `DynamoDB` `Firebase` `Prisma` `SQLAlchemy`
 
+### ☁️ Cloud / DevOps
+
+<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
+</p>
 
-**Authentication**
+`AWS` `Docker` `GitHub Actions` `Git` `GitHub`
 
-`AWS Cognito` `Firebase Auth` `Google OAuth 2.0` `JWT`
+### 🔐 Authentication
 
-**AI / ML**
+`AWS Cognito` `Firebase Authentication` `Google OAuth 2.0` `JWT`
 
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<br>`Groq API (LLM inference — Llama 3.3)` `Pandas` `NumPy`
-
-**Payments**
+### 💳 Payments
 
 `Razorpay`
 
@@ -91,94 +117,123 @@ I build things with real backend depth rather than just a UI on top of a databas
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 MindScape
-**AI-powered Student Productivity Platform**
 
-A full-stack "Student OS" — AI study assistant, LeetCode-style coding arena, and live video collaboration in one dashboard.
+**Student Productivity Platform**
 
-**Key features:** Groq-powered (Llama 3.3) AI chat with memory · PDF-grounded Q&A · Judge0 remote code execution · LiveKit video meetings
+A full-stack student platform combining study tools, coding practice, collaboration, and productivity features in one dashboard.
 
-`React 19` `Node.js` `AWS Cognito/S3` `DynamoDB` `Groq API`
+**Key features:** Coding arena · PDF-based learning · Live video collaboration · Analytics dashboard · Study management
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/MindScape)
+`React 19` `Node.js` `AWS Cognito` `S3` `DynamoDB`
+
+<a href="https://github.com/akhilshah179/MindScape">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💧 FluxCart
-**AI-Powered Dynamic Pricing E-Commerce Engine**
 
-Prices recalculate in real time from live demand, clicks, and stock levels instead of staying static.
+**Dynamic Pricing E-Commerce Engine**
 
-**Key features:** Random Forest pricing model · Redis Pub/Sub live price broadcast over WebSockets · Google OAuth + RBAC
+A full-stack e-commerce system where product prices can dynamically respond to demand, user activity, and inventory conditions.
 
-`React` `FastAPI` `SQLAlchemy (async)` `Redis` `Scikit-learn`
+**Key features:** Dynamic pricing model · Redis Pub/Sub · Real-time WebSocket updates · Google OAuth · Role-based access
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/FluxCart)
+`React` `FastAPI` `SQLAlchemy` `Redis` `Scikit-learn`
+
+<a href="https://github.com/akhilshah179/FluxCart">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚡ StrataGem
+### ⚡ Stratagem
+
 **Meeting Intelligence & Task Automation Platform**
 
-Turns conversations in Slack, Google Meet, and GitHub into tracked, approved action items — nothing discussed gets lost.
+A platform that connects conversations and collaboration tools with structured task management.
 
-**Key features:** Slack slash-command task assignment · Chrome extension detecting live Google Meet sessions · Real GitHub Issues sync
+**Key features:** Slack integration · Google Meet Chrome extension · GitHub Issues synchronization · Real-time updates
 
 `React` `FastAPI` `Firebase` `WebSockets` `Slack API`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/Stratagem-Project-main)
+<a href="https://github.com/akhilshah179/Stratagem-Project-main">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📈 QuantFlow
-**Real-Time Financial Market Terminal & Paper Trading**
 
-A Bloomberg/TradingView-style terminal for live multi-asset analysis and risk-free strategy testing.
+**Real-Time Financial Market Terminal**
 
-**Key features:** Live tick streaming via Redis pub/sub · SMA/EMA/RSI/MACD/Bollinger indicator engine · ACID paper-trading engine via Prisma transactions
+A market-analysis and paper-trading platform designed around live market data, technical indicators, and trading simulations.
+
+**Key features:** Live market streaming · Technical indicators · Paper trading · Stock screening
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/QuantFlow)
+<a href="https://github.com/akhilshah179/QuantFlow">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛠️ NexServe
+
 **On-Demand Multi-Service Booking Marketplace**
 
-Connects customers with verified local service providers across 12+ categories with a structured, paid booking pipeline.
+A service marketplace connecting customers with service providers through a structured booking and payment workflow.
 
-**Key features:** Multi-step booking wizard with slot scheduling · Razorpay checkout with HMAC signature verification · Booking lifecycle state machine
+**Key features:** Multi-step booking · Slot scheduling · Razorpay checkout · Booking lifecycle management
 
 `React` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/NexServe)
+<a href="https://github.com/akhilshah179/NexServe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ☁️ AWS Cloud Threat Logger
+
 **Serverless AWS Security Monitoring Tool**
 
-Ingests CloudTrail logs to detect and alert on suspicious AWS account activity automatically.
+A serverless security monitoring system that processes AWS CloudTrail activity and detects potentially suspicious events.
 
-**Key features:** CloudTrail log ingestion from S3 · Lambda-based real-time event analysis · Fully serverless architecture
+**Key features:** CloudTrail ingestion · S3 integration · Lambda processing · Automated event analysis
 
 `Python` `AWS Lambda` `AWS S3` `AWS CloudTrail`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilshah179/AWS-Cloud-Threat-Logger)
+<a href="https://github.com/akhilshah179/AWS-Cloud-Threat-Logger">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -188,16 +243,18 @@ Ingests CloudTrail logs to detect and alert on suspicious AWS account activity a
 
 <div align="center">
 
-### 🧠 MindScape — The Complete Student Operating System
+### 🧠 MindScape — Student Productivity Platform
 
-**React 19 → Node.js/Express → DynamoDB → AWS (Cognito, S3)**
+**React 19 → Node.js/Express → DynamoDB → AWS**
 
-⭐ Groq-powered AI chat with per-user memory and PDF-grounded Q&A
-⭐ LeetCode-style coding arena with Judge0 remote execution + AI hints/review
-⭐ LiveKit-based real-time video meetings for study groups
-⭐ Full analytics dashboard — study streaks, quiz performance, XP/badges
+⭐ Coding arena with remote code execution
+⭐ PDF-based learning and study tools
+⭐ Real-time video collaboration
+⭐ Student analytics and productivity dashboard
 
-[**View Project →**](https://github.com/akhilshah179/MindScape)
+<a href="https://github.com/akhilshah179/MindScape">
+<b>View Project →</b>
+</a>
 
 </div>
 
@@ -205,16 +262,56 @@ Ingests CloudTrail logs to detect and alert on suspicious AWS account activity a
 
 <div align="center">
 
-### 📈 QuantFlow — Real-Time Financial Market Terminal
+### 💧 FluxCart — Dynamic Pricing E-Commerce
 
-**React + TypeScript → Node.js/Express → PostgreSQL (Prisma) → Redis**
+**React → FastAPI → SQLAlchemy → Redis**
 
-⭐ Live multi-asset tick streaming (equities, crypto, forex, futures) over WebSockets
-⭐ Technical indicator engine — SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, ATR
-⭐ ACID-compliant paper trading engine with atomic Prisma transactions
-⭐ Multi-factor stock screener across global exchanges
+⭐ Dynamic pricing based on demand and inventory
+⭐ Redis Pub/Sub for real-time price updates
+⭐ WebSocket-based live updates
+⭐ Google OAuth and role-based access
 
-[**View Project →**](https://github.com/akhilshah179/QuantFlow)
+<a href="https://github.com/akhilshah179/FluxCart">
+<b>View Project →</b>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Stratagem — Meeting Intelligence & Task Automation
+
+**React → FastAPI → Firebase → WebSockets**
+
+⭐ Slack-based task assignment
+⭐ Google Meet session detection
+⭐ GitHub Issues synchronization
+⭐ Real-time collaboration workflows
+
+<a href="https://github.com/akhilshah179/Stratagem-Project-main">
+<b>View Project →</b>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ NexServe — Service Booking Marketplace
+
+**React → FastAPI → PostgreSQL → Razorpay**
+
+⭐ Multi-step service booking workflow
+⭐ Provider scheduling and availability
+⭐ Razorpay payment integration
+⭐ Booking lifecycle management
+
+<a href="https://github.com/akhilshah179/NexServe">
+<b>View Project →</b>
+</a>
 
 </div>
 
@@ -224,43 +321,30 @@ Ingests CloudTrail logs to detect and alert on suspicious AWS account activity a
 
 > Self-assessed working knowledge, not a scored benchmark.
 
-| Area | Level |
-|---|---|
-| Backend Engineering (APIs, async, real-time) | **Strong** |
-| Frontend Development (React ecosystem) | **Strong** |
-| Cloud & DevOps (AWS, Docker) | **Working Knowledge** |
-| System Design & Distributed Systems | **Learning** |
-| Data Structures & Algorithms | **Learning** |
-| Applied AI / LLM Integration | **Working Knowledge** |
+| Area                                          |         Level         |
+| --------------------------------------------- | :-------------------: |
+| Backend Engineering — APIs, async & real-time |       **Strong**      |
+| Frontend Development — React ecosystem        | **Working Knowledge** |
+| Database & Caching                            |       **Strong**      |
+| Cloud & DevOps — AWS, Docker                  | **Working Knowledge** |
+| System Design & Distributed Systems           |      **Learning**     |
+| Data Structures & Algorithms                  |      **Learning**     |
 
 <br>
 
-## 📅 Currently Learning — 2026 Roadmap
+<div align="center">
 
-```
-2026
-│
-├── 🧩 Data Structures & Algorithms
-│
-├── 🏗️ System Design
-│
-├── ⚙️ Backend Architecture
-│
-├── ☁️ Cloud Infrastructure
-│
-└── 🤖 AI Engineering
-```
+## 📊 GitHub Activity
 
-<br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilshah179&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-## 💭 Philosophy
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilshah179&layout=compact&hide_border=true&theme=transparent" />
 
-```
-Build things.
-Break things.
-Understand why.
-Build them better.
-```
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=akhilshah179&hide_border=true&theme=transparent" />
+
+</div>
 
 <br>
 
@@ -268,10 +352,20 @@ Build them better.
 
 <div align="center">
 
-Let's build something meaningful.
+### Let's build something meaningful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilshah04/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilshah179)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilshah179@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/akhilshah04/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:akhilshah179@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/akhilshah179">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
