@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Akhil Shah
@@ -218,17 +219,17 @@ A service marketplace connecting customers with service providers through a stru
 
 <td width="50%" valign="top">
 
-### ☁️ AWS Cloud Threat Logger
+### 🧭 CodePilot
 
-**Serverless AWS Security Monitoring Tool**
+**AI-Powered Codebase Intelligence Platform**
 
-A serverless security monitoring system that processes AWS CloudTrail activity and detects potentially suspicious events.
+An intelligent codebase analysis platform that transforms GitHub repositories into interactive dependency graphs, architecture maps, and evidence-backed execution flows.
 
-**Key features:** CloudTrail ingestion · S3 integration · Lambda processing · Automated event analysis
+**Key features:** Interactive dependency wireframes · System architecture mapping · Automation flow tracing · Technology intelligence · Interactive 3D visualization
 
-`Python` `AWS Lambda` `AWS S3` `AWS CloudTrail`
+`React 19` `TypeScript` `Node.js` `Fastify` `SQLite` `Three.js` `D3`
 
-<a href="https://github.com/akhilshah179/AWS-Cloud-Threat-Logger">
+<a href="https://github.com/akhilshah179/CodePilot">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
@@ -248,8 +249,11 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 **React 19 → Node.js/Express → DynamoDB → AWS**
 
 ⭐ Coding arena with remote code execution
+
 ⭐ PDF-based learning and study tools
+
 ⭐ Real-time video collaboration
+
 ⭐ Student analytics and productivity dashboard
 
 <a href="https://github.com/akhilshah179/MindScape">
@@ -267,8 +271,11 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 **React → FastAPI → SQLAlchemy → Redis**
 
 ⭐ Dynamic pricing based on demand and inventory
+
 ⭐ Redis Pub/Sub for real-time price updates
+
 ⭐ WebSocket-based live updates
+
 ⭐ Google OAuth and role-based access
 
 <a href="https://github.com/akhilshah179/FluxCart">
@@ -286,8 +293,11 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 **React → FastAPI → Firebase → WebSockets**
 
 ⭐ Slack-based task assignment
+
 ⭐ Google Meet session detection
+
 ⭐ GitHub Issues synchronization
+
 ⭐ Real-time collaboration workflows
 
 <a href="https://github.com/akhilshah179/Stratagem-Project-main">
@@ -305,8 +315,11 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 **React → FastAPI → PostgreSQL → Razorpay**
 
 ⭐ Multi-step service booking workflow
+
 ⭐ Provider scheduling and availability
+
 ⭐ Razorpay payment integration
+
 ⭐ Booking lifecycle management
 
 <a href="https://github.com/akhilshah179/NexServe">
@@ -324,8 +337,11 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 **React + TypeScript → Node.js/Express → PostgreSQL + Prisma → Redis**
 
 ⭐ Live multi-asset market data streaming
+
 ⭐ Technical indicator engine — SMA, EMA, RSI, MACD, Bollinger Bands, VWAP & ATR
+
 ⭐ ACID-compliant paper trading with atomic Prisma transactions
+
 ⭐ Multi-factor stock screener across global markets
 
 <a href="https://github.com/akhilshah179/QuantFlow">
@@ -334,8 +350,33 @@ A serverless security monitoring system that processes AWS CloudTrail activity a
 
 </div>
 
-<br>
+---
 
+<div align="center">
+
+### 🧭 CodePilot — AI-Powered Codebase Intelligence
+
+**React 19 + TypeScript + Three.js → Node.js + Fastify → SQLite**
+
+⭐ Interactive dependency wireframes with deterministic layouts and circular graph visualization
+
+⭐ Evidence-backed system architecture maps with file-level references
+
+⭐ Automation Engine tracing execution flows from user actions to backend services and databases
+
+⭐ Technology intelligence explaining each technology's purpose using source-code evidence
+
+⭐ Interactive 3D codebase visualization and architecture exploration
+
+⭐ Privacy-focused, opt-in collective intelligence and architectural benchmarks
+
+<a href="https://github.com/akhilshah179/CodePilot">
+<b>View Project →</b>
+</a>
+
+</div>
+
+<br>
 
 ## 🏗️ Engineering Skills
 
