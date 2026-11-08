@@ -1,432 +1,145 @@
-
 <div align="center">
 
-# 👋 Akhil Shah
+# Akhil Shah
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA8FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Engineer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+### Backend-focused Full-Stack Engineer
 
-**B.Tech, Information & Communication Technology — Pandit Deendayal Energy University**
+I build real-time, data-heavy web systems — WebSocket pipelines, async APIs, transactional backends, and the React frontends on top of them.
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=900&color=2EA8FF&center=true&vCenter=true&width=620&lines=Real-time+systems+with+WebSockets+%2B+Redis+Pub%2FSub;Async+APIs+with+FastAPI+and+Node.js;Transactional+backends+on+PostgreSQL;Static+analysis+%26+codebase+visualization" alt="What I build" />
 
-<a href="https://www.linkedin.com/in/akhilshah04/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:akhilshah179@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/akhilshah179">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=akhilshah179&color=2EA8FF&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/akhilshah179?style=flat-square&color=2EA8FF&label=Followers" />
+<a href="https://www.linkedin.com/in/akhilshah04/"><img src="https://img.shields.io/badge/LinkedIn-akhilshah04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akhilshah179@gmail.com"><img src="https://img.shields.io/badge/Email-akhilshah179%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br>
+---
 
-## 🧭 About Me
+## About
+
+- 🎓 **B.Tech, Information & Communication Technology** — Pandit Deendayal Energy University
+- 🛠️ I've shipped **6 full-stack systems** spanning fintech, e-commerce, developer tooling, marketplaces, and edtech
+- ⚙️ My strongest work is on the backend: real-time data flow, caching, auth, payments, and database transactions
+- 📚 Currently going deeper on **system design, distributed systems, and DSA in C++**
+- 💼 **Open to** Software Engineering / Backend internships and full-time roles
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-**👨‍💻 Building**
+### 🧭 [CodePilot](https://github.com/akhilshah179/CodePilot)
+**Codebase intelligence for GitHub repositories**
 
-Full-stack applications with robust backend systems, REST APIs, real-time pipelines, authentication, and cloud-backed services.
+Point it at a repo and it builds an explorable map of how the code actually fits together.
+
+- Parses source into **dependency graphs** with deterministic layouts and cycle visualization
+- Generates **architecture maps** where every claim links back to a file
+- Traces **execution flows** from a UI action through services down to the database
+- Interactive **3D view** of the codebase (Three.js + D3)
+
+`TypeScript` `React 19` `Fastify` `SQLite` `Three.js` `D3`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center" valign="top">
+### 📈 [QuantFlow](https://github.com/akhilshah179/QuantFlow)
+**Real-time market terminal & paper trading**
 
-**🧠 Learning**
+A trading terminal with live multi-asset data, analytics, and simulated execution.
 
-System Design, Distributed Systems & Data Structures / Algorithms
+- **Live market streaming** over WebSockets, cached with Redis
+- Indicator engine: **SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, ATR**
+- **ACID paper trading** — orders, balances and positions update in one atomic Prisma transaction
+- Multi-factor **stock screener** across global markets
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Redis`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td width="33%" align="center" valign="top">
+### 💧 [FluxCart](https://github.com/akhilshah179/FluxCart)
+**E-commerce engine with dynamic pricing**
 
-**☁️ Exploring**
+Prices that respond to demand, user activity, and stock levels — pushed live to every open browser.
 
-Cloud infrastructure, scalable backend architecture, and modern web technologies.
+- Pricing model built with **scikit-learn** on demand and inventory signals
+- Price changes fan out via **Redis Pub/Sub → WebSockets**
+- **Google OAuth 2.0** login with role-based access (admin / customer)
+
+`Python` `FastAPI` `SQLAlchemy` `Redis` `React` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [MindScape](https://github.com/akhilshah179/MindScape)
+**All-in-one student productivity platform**
+
+Study tools, coding practice, and collaboration in a single dashboard.
+
+- **Coding arena** with remote code execution
+- PDF-based learning and study management
+- **Live video collaboration** between students
+- Auth with **AWS Cognito**, files on **S3**, data in **DynamoDB**
+
+`React 19` `Node.js` `Express` `AWS Cognito` `S3` `DynamoDB`
 
 </td>
 </tr>
 </table>
 
-I enjoy building practical software with real backend depth — from asynchronous APIs and WebSocket pipelines to database-driven applications and cloud services. My focus is on understanding how systems work behind the interface and building reliable solutions around them.
+### More projects
 
-<br>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| ⚡ [**Stratagem**](https://github.com/akhilshah179/Stratagem-Project-main) | Turns meetings and chat into tracked tasks — Slack task assignment, a Chrome extension that detects Google Meet sessions, and two-way GitHub Issues sync | `FastAPI` `Firebase` `WebSockets` `Slack API` `React` |
+| 🛠️ [**NexServe**](https://github.com/akhilshah179/NexServe) | Service-booking marketplace with multi-step booking, provider slot scheduling, Razorpay checkout, and a full booking lifecycle (requested → confirmed → completed / cancelled) | `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay` `React` |
 
-## 🧰 Tech Stack
+---
 
-### 💻 Languages
+## Engineering Highlights
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,sql" />
-</p>
+What these projects taught me to build — and can talk through in depth:
 
-`C++` `Python` `JavaScript` `TypeScript` `SQL`
+| | |
+| --- | --- |
+| **Real-time delivery** | Redis Pub/Sub feeding WebSocket broadcasts so many clients see price and market updates instantly (FluxCart, QuantFlow, Stratagem) |
+| **Data integrity** | Atomic multi-table transactions so a trade can never debit cash without creating a position (QuantFlow) |
+| **Auth & security** | JWT, Google OAuth 2.0, Firebase Auth, AWS Cognito, and role-based access control across projects |
+| **Payments** | Razorpay order creation and verification tied to a booking state machine (NexServe) |
+| **Static analysis** | Parsing real repositories into graphs and tracing flows end-to-end (CodePilot) |
+| **Cloud** | AWS (Cognito, S3, DynamoDB), Docker, and CI with GitHub Actions |
 
-### 🎨 Frontend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
-</p>
-
-`React` `Vite` `Tailwind CSS` `HTML` `CSS`
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-`Node.js` `Express.js` `FastAPI` `REST APIs` `WebSockets`
-
-### 🗄️ Database & Caching
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,dynamodb,firebase,prisma" />
-</p>
-
-`PostgreSQL` `SQLite` `Redis` `DynamoDB` `Firebase` `Prisma` `SQLAlchemy`
-
-### ☁️ Cloud / DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
-</p>
-
-`AWS` `Docker` `GitHub Actions` `Git` `GitHub`
-
-### 🔐 Authentication
-
-`AWS Cognito` `Firebase Authentication` `Google OAuth 2.0` `JWT`
-
-### 💳 Payments
-
-`Razorpay`
-
-<br>
-
-## 🚀 Featured Projects
+## Tech Stack
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 MindScape
-
-**Student Productivity Platform**
-
-A full-stack student platform combining study tools, coding practice, collaboration, and productivity features in one dashboard.
-
-**Key features:** Coding arena · PDF-based learning · Live video collaboration · Analytics dashboard · Study management
-
-`React 19` `Node.js` `AWS Cognito` `S3` `DynamoDB`
-
-<a href="https://github.com/akhilshah179/MindScape">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💧 FluxCart
-
-**Dynamic Pricing E-Commerce Engine**
-
-A full-stack e-commerce system where product prices can dynamically respond to demand, user activity, and inventory conditions.
-
-**Key features:** Dynamic pricing model · Redis Pub/Sub · Real-time WebSocket updates · Google OAuth · Role-based access
-
-`React` `FastAPI` `SQLAlchemy` `Redis` `Scikit-learn`
-
-<a href="https://github.com/akhilshah179/FluxCart">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Stratagem
-
-**Meeting Intelligence & Task Automation Platform**
-
-A platform that connects conversations and collaboration tools with structured task management.
-
-**Key features:** Slack integration · Google Meet Chrome extension · GitHub Issues synchronization · Real-time updates
-
-`React` `FastAPI` `Firebase` `WebSockets` `Slack API`
-
-<a href="https://github.com/akhilshah179/Stratagem-Project-main">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 QuantFlow
-
-**Real-Time Financial Market Terminal**
-
-A market-analysis and paper-trading platform designed around live market data, technical indicators, and trading simulations.
-
-**Key features:** Live market streaming · Technical indicators · Paper trading · Stock screening
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis`
-
-<a href="https://github.com/akhilshah179/QuantFlow">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛠️ NexServe
-
-**On-Demand Multi-Service Booking Marketplace**
-
-A service marketplace connecting customers with service providers through a structured booking and payment workflow.
-
-**Key features:** Multi-step booking · Slot scheduling · Razorpay checkout · Booking lifecycle management
-
-`React` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay`
-
-<a href="https://github.com/akhilshah179/NexServe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧭 CodePilot
-
-**AI-Powered Codebase Intelligence Platform**
-
-An intelligent codebase analysis platform that transforms GitHub repositories into interactive dependency graphs, architecture maps, and evidence-backed execution flows.
-
-**Key features:** Interactive dependency wireframes · System architecture mapping · Automation flow tracing · Technology intelligence · Interactive 3D visualization
-
-`React 19` `TypeScript` `Node.js` `Fastify` `SQLite` `Three.js` `D3`
-
-<a href="https://github.com/akhilshah179/CodePilot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,postgres" /></td><td>C++ · Python · TypeScript · JavaScript · SQL</td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></td><td>Node.js · Express · Fastify · FastAPI · REST · WebSockets</td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" /></td><td>React · Vite · Tailwind CSS · Three.js · D3</td></tr>
+<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,dynamodb,firebase,prisma" /></td><td>PostgreSQL · Redis · SQLite · DynamoDB · Firebase · Prisma · SQLAlchemy</td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" /></td><td>AWS · Docker · GitHub Actions · Git</td></tr>
 </table>
 
-<br>
-
-## 🌟 Project Showcase
-
-<div align="center">
-
-### 🧠 MindScape — Student Productivity Platform
-
-**React 19 → Node.js/Express → DynamoDB → AWS**
-
-⭐ Coding arena with remote code execution
-
-⭐ PDF-based learning and study tools
-
-⭐ Real-time video collaboration
-
-⭐ Student analytics and productivity dashboard
-
-<a href="https://github.com/akhilshah179/MindScape">
-<b>View Project →</b>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💧 FluxCart — Dynamic Pricing E-Commerce
+## GitHub Activity
 
-**React → FastAPI → SQLAlchemy → Redis**
-
-⭐ Dynamic pricing based on demand and inventory
-
-⭐ Redis Pub/Sub for real-time price updates
-
-⭐ WebSocket-based live updates
-
-⭐ Google OAuth and role-based access
-
-<a href="https://github.com/akhilshah179/FluxCart">
-<b>View Project →</b>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Stratagem — Meeting Intelligence & Task Automation
-
-**React → FastAPI → Firebase → WebSockets**
-
-⭐ Slack-based task assignment
-
-⭐ Google Meet session detection
-
-⭐ GitHub Issues synchronization
-
-⭐ Real-time collaboration workflows
-
-<a href="https://github.com/akhilshah179/Stratagem-Project-main">
-<b>View Project →</b>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ NexServe — Service Booking Marketplace
-
-**React → FastAPI → PostgreSQL → Razorpay**
-
-⭐ Multi-step service booking workflow
-
-⭐ Provider scheduling and availability
-
-⭐ Razorpay payment integration
-
-⭐ Booking lifecycle management
-
-<a href="https://github.com/akhilshah179/NexServe">
-<b>View Project →</b>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 QuantFlow — Real-Time Financial Market Terminal
-
-**React + TypeScript → Node.js/Express → PostgreSQL + Prisma → Redis**
-
-⭐ Live multi-asset market data streaming
-
-⭐ Technical indicator engine — SMA, EMA, RSI, MACD, Bollinger Bands, VWAP & ATR
-
-⭐ ACID-compliant paper trading with atomic Prisma transactions
-
-⭐ Multi-factor stock screener across global markets
-
-<a href="https://github.com/akhilshah179/QuantFlow">
-<b>View Project →</b>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🧭 CodePilot — AI-Powered Codebase Intelligence
-
-**React 19 + TypeScript + Three.js → Node.js + Fastify → SQLite**
-
-⭐ Interactive dependency wireframes with deterministic layouts and circular graph visualization
-
-⭐ Evidence-backed system architecture maps with file-level references
-
-⭐ Automation Engine tracing execution flows from user actions to backend services and databases
-
-⭐ Technology intelligence explaining each technology's purpose using source-code evidence
-
-⭐ Interactive 3D codebase visualization and architecture exploration
-
-⭐ Privacy-focused, opt-in collective intelligence and architectural benchmarks
-
-<a href="https://github.com/akhilshah179/CodePilot">
-<b>View Project →</b>
-</a>
-
-</div>
-
-<br>
-
-## 🏗️ Engineering Skills
-
-> Self-assessed working knowledge, not a scored benchmark.
-
-| Area                                          |         Level         |
-| --------------------------------------------- | :-------------------: |
-| Backend Engineering — APIs, async & real-time |       **Strong**      |
-| Frontend Development — React ecosystem        | **Working Knowledge** |
-| Database & Caching                            |       **Strong**      |
-| Cloud & DevOps — AWS, Docker                  | **Working Knowledge** |
-| System Design & Distributed Systems           |      **Learning**     |
-| Data Structures & Algorithms                  |      **Learning**     |
-
-<br>
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilshah179&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilshah179&layout=compact&hide_border=true&theme=transparent" />
-
-<br><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilshah179&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilshah179&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=akhilshah179&hide_border=true&theme=transparent" />
 
-</div>
+<br><br>
 
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### Let's build something meaningful.
-
-<br>
-
-<a href="https://www.linkedin.com/in/akhilshah04/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:akhilshah179@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/akhilshah179">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Hiring for a backend or full-stack role?** I'd love to chat — [LinkedIn](https://www.linkedin.com/in/akhilshah04/) · [Email](mailto:akhilshah179@gmail.com)
 
 </div>
