@@ -18,7 +18,7 @@ I build real-time, data-heavy web systems — WebSocket pipelines, async APIs, t
 ## About
 
 - 🎓 **B.Tech, Information & Communication Technology** — Pandit Deendayal Energy University
-- 🛠️ I've shipped **6 full-stack systems** spanning fintech, e-commerce, developer tooling, marketplaces, and edtech
+- 🛠️ I've created **6 full-stack systems** spanning fintech, e-commerce, developer tooling, marketplaces, and edtech
 - ⚙️ My strongest work is on the backend: real-time data flow, caching, auth, payments, and database transactions
 - 📚 Currently going deeper on **system design, distributed systems, and DSA in C++**
 - 💼 **Open to** Software Engineering / Backend internships and full-time roles
@@ -91,14 +91,39 @@ Study tools, coding practice, and collaboration in a single dashboard.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Stratagem](https://github.com/akhilshah179/Stratagem-Project-main)
+**Meeting intelligence & task automation**
+
+Turns conversations in meetings and chat into tracked, assigned tasks.
+
+- **Slack integration** for assigning tasks right from chat
+- **Chrome extension** that detects Google Meet sessions
+- **Two-way sync** with GitHub Issues
+- **Real-time updates** across the team over WebSockets
+
+`Python` `FastAPI` `Firebase` `WebSockets` `Slack API` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [NexServe](https://github.com/akhilshah179/NexServe)
+**On-demand service booking marketplace**
+
+Connects customers with service providers, from picking a slot to paying for it.
+
+- **Multi-step booking** flow for customers
+- **Provider scheduling** with slot availability
+- **Razorpay checkout** with payment verification
+- Full **booking lifecycle** — requested → confirmed → completed / cancelled
+
+`Python` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay` `React`
+
+</td>
+</tr>
 </table>
-
-### More projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| ⚡ [**Stratagem**](https://github.com/akhilshah179/Stratagem-Project-main) | Turns meetings and chat into tracked tasks — Slack task assignment, a Chrome extension that detects Google Meet sessions, and two-way GitHub Issues sync | `FastAPI` `Firebase` `WebSockets` `Slack API` `React` |
-| 🛠️ [**NexServe**](https://github.com/akhilshah179/NexServe) | Service-booking marketplace with multi-step booking, provider slot scheduling, Razorpay checkout, and a full booking lifecycle (requested → confirmed → completed / cancelled) | `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay` `React` |
 
 ---
 
