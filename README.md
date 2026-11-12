@@ -151,37 +151,59 @@ What these projects taught me to build — and can talk through in depth:
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,py,ts,js" /></td>
-<td>C++ · Python · TypeScript · JavaScript · SQL</td>
+<td width="20%" valign="middle"><b>Languages</b></td>
+<td width="34%" valign="middle">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,react,js,html,css" />
+</td>
+<td valign="middle">
+C · C++ · Python · SQL · React · JavaScript (ES6+) · HTML5 · CSS3
+</td>
 </tr>
 
 <tr>
-<td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></td>
-<td>Node.js · Express · Fastify · FastAPI · REST · WebSockets</td>
+<td valign="middle"><b>Backend and APIs</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,redis,postgres,mysql" />
+</td>
+<td valign="middle">
+Node.js · FastAPI · RESTful APIs · WebSockets · JWT · Redis · PostgreSQL · MySQL
+</td>
 </tr>
 
 <tr>
-<td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" /></td>
-<td>React · Vite · Tailwind CSS · Three.js · D3</td>
+<td valign="middle"><b>Infra and Tools</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,vscode" />
+</td>
+<td valign="middle">
+AWS · Docker · Firebase · n8n · Git · GitHub · VS Code · Wireshark
+</td>
 </tr>
 
 <tr>
-<td><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,dynamodb,firebase,prisma" /></td>
-<td>PostgreSQL · Redis · SQLite · DynamoDB · Firebase · Prisma · SQLAlchemy</td>
+<td valign="middle"><b>Core CS</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</td>
+<td valign="middle">
+Data Structures and Algorithms · OOP · Operating Systems · DBMS · Computer Networks · Cloud Fundamentals
+</td>
 </tr>
 
 <tr>
-<td><b>Cloud & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" /></td>
-<td>AWS · Docker · GitHub Actions · Git</td>
+<td valign="middle"><b>Soft Skills</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Problem_Solving-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Communication-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Teamwork-059669?style=flat-square" />
+</td>
+<td valign="middle">
+Problem Solving · Communication · Teamwork
+</td>
 </tr>
 </table>
 
@@ -203,6 +225,6 @@ What these projects taught me to build — and can talk through in depth:
 
 I'd love to chat.
 
-[LinkedIn](https://www.linkedin.com/in/akhilshah04/) · [Email](mailto:akhilshah179@gmail.com)
+<a href="https://www.linkedin.com/in/akhilshah04/">LinkedIn</a> · <a href="mailto:akhilshah179@gmail.com">Email</a>
 
 </div>
