@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Akhil Shah
@@ -18,10 +19,10 @@ I build real-time, data-heavy web systems — WebSocket pipelines, async APIs, t
 ## About
 
 - 🎓 **B.Tech, Information & Communication Technology** — Pandit Deendayal Energy University
-- 🛠️ I've created **6 full-stack systems** spanning fintech, e-commerce, developer tooling, marketplaces, and edtech
-- ⚙️ My strongest work is on the backend: real-time data flow, caching, auth, payments, and database transactions
-- 📚 Currently going deeper on **system design, distributed systems, and DSA in C++**
-- 💼 **Open to** Software Engineering / Backend internships and full-time roles
+- 🛠️ I've created **6 full-stack systems** spanning fintech, e-commerce, developer tooling, marketplaces, and edtech.
+- ⚙️ My strongest work is on the backend: real-time data flow, caching, authentication, payments, and database transactions.
+- 📚 Currently going deeper on **System Design, Distributed Systems, and DSA in C++**.
+- 💼 **Open to:** Software Engineering / Backend internships and full-time roles.
 
 ---
 
@@ -32,14 +33,15 @@ I build real-time, data-heavy web systems — WebSocket pipelines, async APIs, t
 <td width="50%" valign="top">
 
 ### 🧭 [CodePilot](https://github.com/akhilshah179/CodePilot)
-**Codebase intelligence for GitHub repositories**
+
+**Codebase Intelligence for GitHub Repositories**
 
 Point it at a repo and it builds an explorable map of how the code actually fits together.
 
-- Parses source into **dependency graphs** with deterministic layouts and cycle visualization
-- Generates **architecture maps** where every claim links back to a file
-- Traces **execution flows** from a UI action through services down to the database
-- Interactive **3D view** of the codebase (Three.js + D3)
+- Parses source into **dependency graphs** with deterministic layouts and cycle visualization.
+- Generates **architecture maps** where every claim links back to a file.
+- Traces **execution flows** from a UI action through services down to the database.
+- Interactive **3D view** of the codebase (Three.js + D3).
 
 `TypeScript` `React 19` `Fastify` `SQLite` `Three.js` `D3`
 
@@ -47,30 +49,33 @@ Point it at a repo and it builds an explorable map of how the code actually fits
 <td width="50%" valign="top">
 
 ### 📈 [QuantFlow](https://github.com/akhilshah179/QuantFlow)
-**Real-time market terminal & paper trading**
+
+**Real-Time Market Terminal & Paper Trading**
 
 A trading terminal with live multi-asset data, analytics, and simulated execution.
 
-- **Live market streaming** over WebSockets, cached with Redis
-- Indicator engine: **SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, ATR**
-- **ACID paper trading** — orders, balances and positions update in one atomic Prisma transaction
-- Multi-factor **stock screener** across global markets
+- **Live market streaming** over WebSockets, cached with Redis.
+- Indicator engine: **SMA, EMA, RSI, MACD, Bollinger Bands, VWAP, ATR**.
+- **ACID paper trading** — orders, balances and positions update in one atomic Prisma transaction.
+- Multi-factor **stock screener** across global markets.
 
 `TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Redis`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 💧 [FluxCart](https://github.com/akhilshah179/FluxCart)
-**E-commerce engine with dynamic pricing**
+
+**E-Commerce Engine with Dynamic Pricing**
 
 Prices that respond to demand, user activity, and stock levels — pushed live to every open browser.
 
-- Pricing model built with **scikit-learn** on demand and inventory signals
-- Price changes fan out via **Redis Pub/Sub → WebSockets**
-- **Google OAuth 2.0** login with role-based access (admin / customer)
+- Pricing model built with **scikit-learn** on demand and inventory signals.
+- Price changes fan out via **Redis Pub/Sub → WebSockets**.
+- **Google OAuth 2.0** login with role-based access (admin / customer).
 
 `Python` `FastAPI` `SQLAlchemy` `Redis` `React` `scikit-learn`
 
@@ -78,31 +83,34 @@ Prices that respond to demand, user activity, and stock levels — pushed live t
 <td width="50%" valign="top">
 
 ### 🧠 [MindScape](https://github.com/akhilshah179/MindScape)
-**All-in-one student productivity platform**
+
+**All-in-One Student Productivity Platform**
 
 Study tools, coding practice, and collaboration in a single dashboard.
 
-- **Coding arena** with remote code execution
-- PDF-based learning and study management
-- **Live video collaboration** between students
-- Auth with **AWS Cognito**, files on **S3**, data in **DynamoDB**
+- **Coding arena** with remote code execution.
+- PDF-based learning and study management.
+- **Live video collaboration** between students.
+- Authentication with **AWS Cognito**, files on **S3**, data in **DynamoDB**.
 
 `React 19` `Node.js` `Express` `AWS Cognito` `S3` `DynamoDB`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ [Stratagem](https://github.com/akhilshah179/Stratagem-Project-main)
-**Meeting intelligence & task automation**
+
+**Meeting Intelligence & Task Automation**
 
 Turns conversations in meetings and chat into tracked, assigned tasks.
 
-- **Slack integration** for assigning tasks right from chat
-- **Chrome extension** that detects Google Meet sessions
-- **Two-way sync** with GitHub Issues
-- **Real-time updates** across the team over WebSockets
+- **Slack integration** for assigning tasks right from chat.
+- **Chrome extension** that detects Google Meet sessions.
+- **Two-way sync** with GitHub Issues.
+- **Real-time updates** across the team over WebSockets.
 
 `Python` `FastAPI` `Firebase` `WebSockets` `Slack API` `React`
 
@@ -110,14 +118,15 @@ Turns conversations in meetings and chat into tracked, assigned tasks.
 <td width="50%" valign="top">
 
 ### 🛠️ [NexServe](https://github.com/akhilshah179/NexServe)
-**On-demand service booking marketplace**
+
+**On-Demand Service Booking Marketplace**
 
 Connects customers with service providers, from picking a slot to paying for it.
 
-- **Multi-step booking** flow for customers
-- **Provider scheduling** with slot availability
-- **Razorpay checkout** with payment verification
-- Full **booking lifecycle** — requested → confirmed → completed / cancelled
+- **Multi-step booking** flow for customers.
+- **Provider scheduling** with slot availability.
+- **Razorpay checkout** with payment verification.
+- Full **booking lifecycle** — requested → confirmed → completed / cancelled.
 
 `Python` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Razorpay` `React`
 
@@ -131,25 +140,49 @@ Connects customers with service providers, from picking a slot to paying for it.
 
 What these projects taught me to build — and can talk through in depth:
 
-| | |
-| --- | --- |
-| **Real-time delivery** | Redis Pub/Sub feeding WebSocket broadcasts so many clients see price and market updates instantly (FluxCart, QuantFlow, Stratagem) |
-| **Data integrity** | Atomic multi-table transactions so a trade can never debit cash without creating a position (QuantFlow) |
-| **Auth & security** | JWT, Google OAuth 2.0, Firebase Auth, AWS Cognito, and role-based access control across projects |
-| **Payments** | Razorpay order creation and verification tied to a booking state machine (NexServe) |
-| **Static analysis** | Parsing real repositories into graphs and tracing flows end-to-end (CodePilot) |
-| **Cloud** | AWS (Cognito, S3, DynamoDB), Docker, and CI with GitHub Actions |
+| Engineering Area | Implementation |
+|---|---|
+| **Real-Time Delivery** | Redis Pub/Sub feeding WebSocket broadcasts so many clients see price and market updates instantly (FluxCart, QuantFlow, Stratagem). |
+| **Data Integrity** | Atomic multi-table transactions so a trade can never debit cash without creating a position (QuantFlow). |
+| **Authentication & Security** | JWT, Google OAuth 2.0, Firebase Auth, AWS Cognito, and role-based access control across projects. |
+| **Payments** | Razorpay order creation and verification tied to a booking state machine (NexServe). |
+| **Static Analysis** | Parsing real repositories into graphs and tracing flows end-to-end (CodePilot). |
+| **Cloud Infrastructure** | AWS (Cognito, S3, DynamoDB), Docker, and CI with GitHub Actions. |
 
 ---
 
 ## Tech Stack
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,postgres" /></td><td>C++ · Python · TypeScript · JavaScript · SQL</td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></td><td>Node.js · Express · Fastify · FastAPI · REST · WebSockets</td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" /></td><td>React · Vite · Tailwind CSS · Three.js · D3</td></tr>
-<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,dynamodb,firebase,prisma" /></td><td>PostgreSQL · Redis · SQLite · DynamoDB · Firebase · Prisma · SQLAlchemy</td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" /></td><td>AWS · Docker · GitHub Actions · Git</td></tr>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,py,ts,js" /></td>
+<td>C++ · Python · TypeScript · JavaScript · SQL</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></td>
+<td>Node.js · Express · Fastify · FastAPI · REST · WebSockets</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" /></td>
+<td>React · Vite · Tailwind CSS · Three.js · D3</td>
+</tr>
+
+<tr>
+<td><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,dynamodb,firebase,prisma" /></td>
+<td>PostgreSQL · Redis · SQLite · DynamoDB · Firebase · Prisma · SQLAlchemy</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" /></td>
+<td>AWS · Docker · GitHub Actions · Git</td>
+</tr>
 </table>
 
 ---
@@ -159,12 +192,17 @@ What these projects taught me to build — and can talk through in depth:
 ## GitHub Activity
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilshah179&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilshah179&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=akhilshah179&hide_border=true&theme=transparent" />
 
-<br><br>
+<br/><br/>
 
-**Hiring for a backend or full-stack role?** I'd love to chat — [LinkedIn](https://www.linkedin.com/in/akhilshah04/) · [Email](mailto:akhilshah179@gmail.com)
+**Hiring for a backend or full-stack role?**
+
+I'd love to chat.
+
+[LinkedIn](https://www.linkedin.com/in/akhilshah04/) · [Email](mailto:akhilshah179@gmail.com)
 
 </div>
